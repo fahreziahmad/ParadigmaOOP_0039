@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-#inlcude "Jantung.h"
+#include "Jantung.h"
 #include "manusia.h"
 
 int main() {
